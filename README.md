@@ -1,4 +1,4 @@
-# Instructor: Structured Outputs for LLMs!
+# Instructor: Structured Outputs for LLMs
 
 Get reliable JSON from any LLM. Built on Pydantic for validation, type safety, and IDE support.
 
